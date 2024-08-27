@@ -9,6 +9,8 @@ class vikas{
 		System.out.println("My name is Vikas Pal");
 		System.out.println("My name is Vikas Pal");
 		System.out.println("My name is Vikas Pal");
+	        System.out.println("Vikas Pal");
+		
 
 		
 		
